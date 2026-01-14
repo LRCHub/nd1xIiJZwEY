@@ -1,0 +1,42 @@
+# Joji – Sanctuary
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.42] Go ahead and park after dark
+[00:15.09] Fallen star, I'm your one call away
+[00:32.59] 
+[00:21.46] Motel halls, neon walls
+[00:26.12] When night falls, I am your escape
+[00:43.12] 
+[00:33.53] When you lay alone, I ache
+[00:40.05] Something I wanted to feel
+[00:53.05] 
+[00:45.30] If you've been waiting for fallin' in love
+[00:50.51] Babe, you don't have to wait on me
+[00:56.94] 'Cause I've been aiming for heaven above
+[01:01.80] But an angel ain't what I need
+[01:16.80] 
+[01:08.74] Not anyone, you're the one
+[01:11.93] More than fun, you're the sanctuary
+[01:29.43] 
+[01:19.97] 'Cause what you want is what I want
+[01:23.81] Sincerity
+[01:28.31] 
+[01:31.53] Souls that dream alone lie awake
+[01:36.32] I'll give you something so real
+[01:51.82] 
+[01:42.63] If you've been waiting for fallin' in love
+[01:47.61] Babe, you don't have to wait on me
+[01:54.14] 'Cause I've been aiming for Heaven above
+[01:58.98] But an angel ain't what I need
+[02:13.98] 
+[02:04.80] Pull me, oh, so close
+[02:07.38] 'Cause you never know
+[02:10.28] Just how long our lives will be
+[02:25.78] 
+[02:16.26] If you've been waiting for fallin' in love
+[02:21.84] Babe, you don't have to wait on me
+[02:28.69] 'Cause I've been aiming for Heaven above
+[02:33.04] But an angel ain't what I need
+```
