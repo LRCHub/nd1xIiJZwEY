@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sanctuary",
+  "base_artist": "Joji",
+  "createdAt": "2026-01-14T08:00:38.126026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Magnificent Sanctuary Band",
+      "artist": "Donny Hathaway",
+      "has_synced": false,
+      "path": "select/01_Magnificent_Sanctuary_Band_Donny_Hathaway.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sanctuary",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/02_Sanctuary_Joji.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sanctuary",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/03_Sanctuary_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sanctuary",
+      "artist": "Miles Davis",
+      "has_synced": false,
+      "path": "select/04_Sanctuary_Miles_Davis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sanctuary Stone",
+      "artist": "Midwinter",
+      "has_synced": false,
+      "path": "select/05_Sanctuary_Stone_Midwinter.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Banish From Sanctuary",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/06_Banish_From_Sanctuary_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sanctuary",
+      "artist": "Arca feat. Ryuichi Sakamoto",
+      "has_synced": true,
+      "path": "select/07_Sanctuary_Arca_feat._Ryuichi_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sanctuary (feat. Ryuichi Sakamoto)",
+      "artist": "Arca",
+      "has_synced": true,
+      "path": "select/08_Sanctuary_(feat._Ryuichi_Sakamoto)_Arca.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sanctuary",
+      "artist": "Alex Clare",
+      "has_synced": true,
+      "path": "select/09_Sanctuary_Alex_Clare.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SANCTUARY",
+      "artist": "Allie X",
+      "has_synced": true,
+      "path": "select/10_SANCTUARY_Allie_X.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sanctuary",
+      "artist": "Allie X",
+      "has_synced": true,
+      "path": "select/11_Sanctuary_Allie_X.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sanctuary",
+      "artist": "Dabin feat. Mree",
+      "has_synced": true,
+      "path": "select/12_Sanctuary_Dabin_feat._Mree.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sanctuary (feat. Mree)",
+      "artist": "Dabin, Mree",
+      "has_synced": true,
+      "path": "select/13_Sanctuary_(feat._Mree)_Dabin,_Mree.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sanctuary",
+      "artist": "BONES",
+      "has_synced": false,
+      "path": "select/14_Sanctuary_BONES.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Sanctuary",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/15_My_Sanctuary_Great_White.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sanctuary",
+      "artist": "Autograph",
+      "has_synced": false,
+      "path": "select/16_Sanctuary_Autograph.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sanctuary",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Sanctuary_Joji.txt"
+    }
+  ]
+}
